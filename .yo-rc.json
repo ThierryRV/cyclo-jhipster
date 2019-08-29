@@ -1,0 +1,47 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "cyclo",
+    "packageName": "fr.ccc3362.cyclo",
+    "packageFolder": "fr/ccc3362/cyclo",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling",
+      "protractor"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.2.0",
+    "jwtSecretKey": "MDg1OTM0ZTJjMmEyOGEzNmI0M2Q3Y2ExYmE2YzEwY2JiYTk2MzQ2MGQ2ZjlkODdhMjM2Y2NhNzY5MmQzNzBmZWI5ZTcyYTBjOTA0YjA1ZjdhNmIwZTZiOGEyYjU0YzYxNGEzNzk3YWIzMDNiMmQzZDVkYzlhMDQ2MDRiZTJjMGI=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "ThierryRV",
+  "repository-name": "cyclo-jhipster"
+}
